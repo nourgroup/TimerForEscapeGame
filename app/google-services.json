@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98999302614",
+    "project_id": "timer-db838",
+    "storage_bucket": "timer-db838.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98999302614:android:e4ca400631bd641c9dcc77",
+        "android_client_info": {
+          "package_name": "fr.mastersid.oummadi.timerforescapegame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98999302614-e2khjnr58ogv8h269u655t9m1bjhqf81.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzNTDR9alu35zso_j_cdeUY_-I9buJukw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98999302614-e2khjnr58ogv8h269u655t9m1bjhqf81.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
